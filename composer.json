@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "LBU\\Eshop": "src/LBU/Eshop/"
+            "LBU\\Eshop": "src/"
         }
     },
     "minimum-stability": "dev",
